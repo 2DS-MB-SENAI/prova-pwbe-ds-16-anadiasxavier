@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'clinica',
     'agenda',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
